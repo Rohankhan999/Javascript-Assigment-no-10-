@@ -83,6 +83,25 @@
 
 
 // Question no 13 //
-var user = prompt("Enter your User name!");
-if(user === "@")
+
+// let username = prompt("Enter your username:");
+
+
+// let invalidChars = [64, 46, 44, 33]; 
+
+// let isValid = true;
+
+// for (let i = 0; i < username.length; i++) {
+//     if (invalidChars.includes(username.charCodeAt(i))) {
+//         isValid = false;
+//         break;
+//     }
+// }
+
+// if (!isValid) {
+//     alert("Invalid username. Please avoid using any of these characters: @ . , !");
+// } else {
+//     alert("Username is valid! Your username is: " + username);
+// }
+
 
