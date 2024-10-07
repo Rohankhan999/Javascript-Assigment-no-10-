@@ -104,4 +104,46 @@
 //     alert("Username is valid! Your username is: " + username);
 // }
 
+// Question no 13 //
+// var user = prompt("Enter a item which you want!")
+
+// var arr = ["cake","biscuits","bread","pastry"]
+// let found = false;
+// for (let i = 0; i < arr.length; i++) {
+//     if (arr[i].toLowerCase()=== arr .toUpperCase()){
+//         found = true;
+//         break;
+//     }
+
+// }
+// if(found){
+//     alert("this item is avialable at our bakery!")
+// }
+// else{
+//     alert("sorry this item is'nt avialable")
+// }
+
+// // Define the array
+// let A = ["cake", "apple pie", "cookie", "chips", "patties"];
+
+// // Take user input for the item to search
+// let userInput = prompt("Enter the item you want to search:");
+
+// // Convert both the user input and array elements to lowercase for case-insensitive comparison
+// let found = false;
+// for (let i = 0; i < A.length; i++) {
+//     if (A[i].toLowerCase() === userInput.toLowerCase()) {
+//         found = true;
+//         break;
+//     }
+// }
+
+// // Prompt the user about the result
+// if (found) {
+//     alert(userInput + " is available in the list.");
+// } else {
+//     alert(userInput + " is not available in the list.");
+// }
+
+
 
