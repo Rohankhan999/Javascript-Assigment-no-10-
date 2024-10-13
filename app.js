@@ -104,7 +104,8 @@
 //     alert("Username is valid! Your username is: " + username);
 // }
 
-// Question no 13 //
+// Question no 14 //
+
 // var user = prompt("Enter a item which you want!")
 
 // var arr = ["cake","biscuits","bread","pastry"]
@@ -123,27 +124,27 @@
 //     alert("sorry this item is'nt avialable")
 // }
 
-// // Define the array
-// let A = ["cake", "apple pie", "cookie", "chips", "patties"];
+// Question no 15 //
+// ???????
 
-// // Take user input for the item to search
-// let userInput = prompt("Enter the item you want to search:");
 
-// // Convert both the user input and array elements to lowercase for case-insensitive comparison
-// let found = false;
-// for (let i = 0; i < A.length; i++) {
-//     if (A[i].toLowerCase() === userInput.toLowerCase()) {
-//         found = true;
-//         break;
-//     }
-// }
+// Question no 16 //
 
-// // Prompt the user about the result
-// if (found) {
-//     alert(userInput + " is available in the list.");
-// } else {
-//     alert(userInput + " is not available in the list.");
-// }
+// var university = "University of Karachi";
+// console.log(university.split(""));
+
+// Question no 17 //
+
+// var country = "Pakistan";
+// console.log(country.charAt(7));
+// document.write("Last Character of input : " + country.charAt(7))
+
+// Question no 18 //
+var text = "The quick brown fox jumps over the lazy dog"
+
+
+
+
 
 
 
